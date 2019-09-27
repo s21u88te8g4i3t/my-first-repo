@@ -1,2 +1,2 @@
-＃ my-first-repo
-commit?
+＃my-first-repo
+commit? yes
